@@ -24,12 +24,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project,  I will present an analysis of unconventional oil field with 1000 wells, More specifically, I will address following business questions in order to exploit unconventional reservoirs economically:
 
-1. WIdentify the wells which are producing less and more?
+1. Identify the wells which are producing less and more?
 2. Understand why some wells seem good (producing more) and others poor?
 3. What are the key parameters that influence the production?
 4. How can we improve the production from low producing wells which is the ultimate goal?
 
-To clone the repository use: git clone https://github.com/
+To clone the repository use: git clone https://github.com/HanegaonkarAweZ/ApplicationOfEDAandMLfor_OilGasProduction.git
 
 
 ## File Descriptions <a name="files"></a>
@@ -39,7 +39,7 @@ Repository structure:
     ├── README.md
     ├── Data
     ├── .gitignore
-    ├── seattle_airbnb.ipynb
+    ├── MLforOilProduction.ipynb
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 There is Data folder contains csv files used for the analysis.
