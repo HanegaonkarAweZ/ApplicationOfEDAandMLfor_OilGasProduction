@@ -50,4 +50,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The data in this analysis is modified version. The original synthetic data is downloaded fron here  [here](https://github.com/GeostatsGuy/GeoDataSets).  Otherwise, feel free to use the code here as you would like! 
+The data in this analysis is modified version. The original synthetic data is downloaded from here  [here](https://github.com/GeostatsGuy/GeoDataSets).  Otherwise, feel free to use the code here as you would like! 
